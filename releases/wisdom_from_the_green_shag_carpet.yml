@@ -18,9 +18,9 @@ tracks:
 kind: "album"
 format: "cd"
 cover_url: thereddingbrothers_wisdom_coverart
-itunes_url: ""
-amazon_url: ""
-bandcamp_url: ""
+itunes_url: https://itunes.apple.com/bn/album/wisdom-from-green-shag-carpet/id79313114
+amazon_url: http://amzn.to/2cH3KGI
+bandcamp_url: https://reddingbrothers.bandcamp.com/album/wisdom-from-the-green-shag-carpet
 slug: wisdom-from-the-green-shag-carpet
 ---
 Wisdom From The Green Shag Carpet is the 1st full-length album, and a breakout musical step. The fun, fast, and philosophical music The Redding Brothers became known for got its start here.
